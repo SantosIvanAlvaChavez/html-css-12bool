@@ -26,6 +26,11 @@
   padding-right: 5px;
 }
 
+[class*="col-"].padding-0 {
+  padding-right: 0;
+  padding-left: 0;
+}
+
 .col-12 {
   width: 100%;
 }
